@@ -1,0 +1,7 @@
+interface:
+  display_name: "深度资料整理"
+  short_description: "按原始顺序深度整理资料，保留知识、案例、推导与面试表达"
+  default_prompt: "Use $deep-material-organizer to deeply organize this material for review and long-term knowledge retention."
+
+policy:
+  allow_implicit_invocation: true
